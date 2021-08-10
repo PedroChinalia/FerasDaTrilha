@@ -1,0 +1,103 @@
+/* -----Section home----- */ 
+/*componente carrossel */
+.image-carousel1{
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 650px;
+}
+
+.image-carousel2{
+    object-fit: cover;
+    object-position: 0 20%;
+    height: 650px;
+}
+
+.carousel-text{
+    font-family: 'Amatic SC', cursive;
+}
+
+/* Títulos home */
+.home-title1{
+    font-family: 'Happy Monkey', cursive;
+    color: darkolivegreen;
+}
+
+.home-title2{
+    font-family: 'Happy Monkey', cursive;
+    color: gray;
+}
+
+/* -----Section quem-somos----- */
+/* Id quem-somos*/
+#quem-somos{
+    background-image: linear-gradient(to bottom right, rgb(85,107,47), rgb(99,131,45), rgb(107,167,32));
+}
+
+.quem-somos-title{
+    color: white;
+    font-family: 'Amatic SC', cursive;
+}
+
+.quem-somos-card{
+    height: 460px;
+}
+
+.quem-somos-img{
+    height: 350px;
+}
+
+/* Ícones */
+.icon-size{
+    height: 100px;
+    width: 100px;
+}
+
+.icon-text{
+    font-family: 'Amatic SC', cursive;
+    font-size: 26px;
+    color: white;
+}
+
+/* -----Section trilhas----- */
+/* Título da sessão*/
+.trilhas-title{
+    font-family: 'Happy Monkey', cursive;
+    color: darkolivegreen;
+}
+
+.btn-percurso{
+    background-color: darkolivegreen;
+    border: transparent;
+}
+
+/* -----Espaçamentos----- */
+#espaco-quem-somos{
+    height: 15px;
+}
+
+#espaco-trilhas{
+    height: 15px;
+}
+
+/* -----Footer----- */
+#contato{
+    background-color: darkolivegreen;
+}
+
+.contato-text{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    color: white;
+}
+
+.btn-contato-icon{
+    background-color: transparent;
+    border: transparent;
+}
+
+.contato-icon{
+    height: 50px;
+    width: 50px;
+}
+
+
